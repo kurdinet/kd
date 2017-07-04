@@ -103,7 +103,7 @@ h4,h5,h6 {
 	font-size:13px
 }
 blockquote {
-	background:url(images/quote.png) no-repeat 0 5px;
+	background:url(http://img.kurddrama.com/style/images/quote.png) no-repeat 0 5px;
 	margin-left:10px;
 	padding-left:40px;
 	color:#777;
@@ -130,7 +130,7 @@ pre,code,kbd,samp,var {
 pre {
 	padding:20px 20px;
 	nowhitespace:afterproperty;
-	background:#FFF url(images/pre-code-bg.png);
+	background:#FFF url(http://img.kurddrama.com/style/images/pre-code-bg.png);
 	line-height:20px;
 	white-space:pre-wrap;
 	white-space:-moz-pre-wrap;
@@ -564,7 +564,7 @@ max-width:100%;
  *=============================================================================*/
 body {
 	min-width:1060px;
-	background:#EEE url(images/bg-pattern.png) center center;
+	background:#EEE url(http://img.kurddrama.com/style/images/bg-pattern.png) center center;
 }
 #page {
 	overflow:hidden;
@@ -581,7 +581,7 @@ body {
 	/*position:relative;
 	z-index:1;*/
 	padding:30px 0;
-	background:url(images/bg-grad.png) repeat-x;
+	background:url(http://img.kurddrama.com/style/images/bg-grad.png) repeat-x;
 	border-top:2px solid #FFF;
 }
 #content {
@@ -681,7 +681,7 @@ input.search-text {
 	padding:0;
 }
 input.search-submit {
-	background:url(images/icon-search.png) no-repeat center center !important;
+	background:url(http://img.kurddrama.com/style/images/icon-search.png) no-repeat center center !important;
 	width:50px;
 	padding:0;
 	border:0;
@@ -813,7 +813,7 @@ input.search-submit {
 	z-index:4;
 }
 #account-nav .dropdown-handle .arrow-down {
-	background:url(images/arrow-down.png) no-repeat right 8px;
+	background:url(http://img.kurddrama.com/style/images/arrow-down.png) no-repeat right 8px;
 	padding-right:12px;
 	float:left;
 }
@@ -862,7 +862,7 @@ input.search-submit {
 /*= Main Navigation
  *==================================================================*/
 #main-nav {
-	background:#333 url(images/bg-pattern-nav.png) repeat-x 0 0;
+	background:#333 url(http://img.kurddrama.com/style/images/bg-pattern-nav.png) repeat-x 0 0;
 	border-bottom:1px solid #404040;
 	position:relative;
 	z-index:6;
@@ -886,11 +886,11 @@ input.search-submit {
 /* Top Level */
 #main-nav .menu {
 	float:left;
-	background:url(images/nav-sep.png) no-repeat right 0;
+	background:url(http://img.kurddrama.com/style/images/nav-sep.png) no-repeat right 0;
 	padding-right:2px;
 }
 #main-nav .menu>li {
-	background:url(images/nav-sep.png) no-repeat;
+	background:url(http://img.kurddrama.com/style/images/nav-sep.png) no-repeat;
 	float:left;
 	height:40px;
 }
@@ -916,7 +916,7 @@ input.search-submit {
 	border-top:3px solid #B70000;
 	margin-top:-3px;
 	padding-bottom: 1px;
-	background:#1A1A1A url(images/bg-pattern-black.png);
+	background:#1A1A1A url(http://img.kurddrama.com/style/images/bg-pattern-black.png);
 }
 
 /* Sub Levels */
@@ -940,7 +940,7 @@ input.search-submit {
 	border-top:1px solid #444;
 	border-bottom:1px solid #222;
 	border-left:1px solid #4E4E4E;
-	background:url(images/bg-pattern-nav.png) 0 bottom;
+	background:url(http://img.kurddrama.com/style/images/bg-pattern-nav.png) 0 bottom;
 }
 #main-nav ul ul li a {
 	padding:5px 14px;
@@ -1038,7 +1038,7 @@ input.search-submit {
 	width:100%;
 	height:100%;
 	background-color:rgba(0,0,0,0.5);
-	background-image:url(images/icon-plus-24.png);
+	background-image:url(http://img.kurddrama.com/style/images/icon-plus-24.png);
 	background-repeat:no-repeat;
 	background-position:center center;
 	opacity:0;
@@ -1055,7 +1055,7 @@ input.search-submit {
 	opacity:1;
 }
 .item-video .thumb .overlay{
-	background-image:url(images/icon-play-24.png);
+	background-image:url(http://img.kurddrama.com/style/images/icon-play-24.png);
 }
 
 .thumb img{width:100%;}
@@ -1113,7 +1113,7 @@ input.search-submit {
 .item .stats .comments {
 	margin-right:10px;
 	padding-left:16px;
-	background:url(images/stats.png) no-repeat 0 1px;
+	background:url(http://img.kurddrama.com/style/images/stats.png) no-repeat 0 1px;
 }
 .item .stats .views {
 	padding-left:18px;
@@ -1174,10 +1174,10 @@ input.search-submit {
 	width:196px;
 }
 .list-small .item-post .thumb .overlay {
-	background-image:url(images/icon-plus-32.png)
+	background-image:url(http://img.kurddrama.com/style/images/icon-plus-32.png)
 }
 .list-small .item-video .thumb .overlay {
-	background-image:url(images/icon-play-32.png)
+	background-image:url(http://img.kurddrama.com/style/images/icon-play-32.png)
 }
 .list-small .data {
 	margin-left:214px
@@ -1228,10 +1228,10 @@ input.search-submit {
 	width:300px;
 }
 .list-medium .item-post .thumb .overlay {
-	background-image:url(images/icon-plus-48.png)
+	background-image:url(http://img.kurddrama.com/style/images/icon-plus-48.png)
 }
 .list-medium .item-video .thumb .overlay {
-	background-image:url(images/icon-play-48.png)
+	background-image:url(http://img.kurddrama.com/style/images/icon-play-48.png)
 }
 .list-medium .data {
 	margin-left:320px
@@ -1264,13 +1264,13 @@ input.search-submit {
 	width:620px;
 }
 .list-large .item-post .thumb .overlay {
-	background-image:url(images/icon-plus-64.png)
+	background-image:url(http://img.kurddrama.com/style/images/icon-plus-64.png)
 }
 .list-large .item-video .thumb .overlay {
-	background-image:url(images/icon-play-64.png)
+	background-image:url(http://img.kurddrama.com/style/images/icon-play-64.png)
 }
 .list-large .thumb.loading .overlay {
-	background:rgba(0,0,0,.75) url(images/loading-bert.gif) no-repeat center center !important;
+	background:rgba(0,0,0,.75) url(http://img.kurddrama.com/style/images/loading-bert.gif) no-repeat center center !important;
 	visibility:visible;
 	opacity:1;
 }
@@ -1315,10 +1315,10 @@ input.search-submit {
 	width:192px;
 }
 .grid-small .item-post .thumb .overlay {
-	background-image:url(images/icon-plus-32.png)
+	background-image:url(http://img.kurddrama.com/style/images/icon-plus-32.png)
 }
 .grid-small .item-video .thumb .overlay {
-	background-image:url(images/icon-play-32.png)
+	background-image:url(http://img.kurddrama.com/style/images/icon-play-32.png)
 }
 .grid-small .title {
 	height:20px;
@@ -1351,10 +1351,10 @@ input.search-submit {
 	width:300px;
 }
 .grid-medium .item-post .thumb .overlay {
-	background-image:url(images/icon-plus-48.png)
+	background-image:url(http://img.kurddrama.com/style/images/icon-plus-48.png)
 }
 .grid-medium .item-video .thumb .overlay {
-	background-image:url(images/icon-play-48.png)
+	background-image:url(http://img.kurddrama.com/style/images/icon-play-48.png)
 }
 .grid-medium .title {
 	height:20px;
@@ -1387,7 +1387,7 @@ input.search-submit {
 	width:138px;
 }
 .grid-mini .item-video .thumb .overlay {
-	background-image:url(images/icon-play-24.png)
+	background-image:url(http://img.kurddrama.com/style/images/icon-play-24.png)
 }
 .grid-mini .title {
 	height:20px;
@@ -1432,7 +1432,7 @@ input.search-submit {
 	color:#111
 }
 .section-title a:hover {
-	background:url(images/section-title-arrow.png) no-repeat right 6px;
+	background:url(http://img.kurddrama.com/style/images/section-title-arrow.png) no-repeat right 6px;
 	padding:0 16px 0 0;
 	text-decoration:none;
 	color:#B70000;
@@ -1458,7 +1458,7 @@ input.search-submit {
 	color:#B70000;
 }
 .section-header .more-link span {
-	background:url(images/mini-arrow.png) no-repeat right center;
+	background:url(http://img.kurddrama.com/style/images/mini-arrow.png) no-repeat right center;
 	padding-right:8px;
 }
 .section-header .more-link:hover {
@@ -1467,11 +1467,11 @@ input.search-submit {
 	color:#333;
 }
 .section-header .more-link:hover span {
-	background: url(images/mini-arrow-black.png) no-repeat right center
+	background: url(http://img.kurddrama.com/style/images/mini-arrow-black.png) no-repeat right center
 }
 .section-content {
 	margin:0 0 20px;
-	background:url(images/section-shadow.png) repeat-x center bottom;
+	background:url(http://img.kurddrama.com/style/images/section-shadow.png) repeat-x center bottom;
 	padding-bottom:10px;
 }
 
@@ -1490,7 +1490,7 @@ input.search-submit {
 	height:100% !important;
 }
 .jp-gui,.jp-gui a,.jp-progress,.jp-seek-bar,.jp-play-bar,.jp-volume-bar,.jp-volume-bar-value {
-	background-image:url(images/jplayer-sprite.png);
+	background-image:url(http://img.kurddrama.com/style/images/jplayer-sprite.png);
 	background-repeat:repeat-x;
 }
 .jp-seek-bar,.jp-play-bar,.jp-volume-bar,.jp-volume-bar-value {
@@ -1532,7 +1532,7 @@ input.search-submit {
 	width:33px;
 	height:30px;
 	padding-right:2px;
-	background:url(images/jplayer-sep.png) no-repeat right 0;
+	background:url(http://img.kurddrama.com/style/images/jplayer-sep.png) no-repeat right 0;
 	position:absolute;
 	top:0;
 	left:0;
@@ -1561,7 +1561,7 @@ input.search-submit {
 	margin:0 95px 0 34px;
 	height:8px;
 	padding:12px 12px 10px 10px;
-	background:url(images/jplayer-sep.png) no-repeat right 0;
+	background:url(http://img.kurddrama.com/style/images/jplayer-sep.png) no-repeat right 0;
 }
 .jp-progress {
 	height:5px;
@@ -1669,7 +1669,7 @@ position:absolute;
  *==================================================================*/
 .wall {
 	padding:20px 0;
-	background:#1A1A1A url(images/bg-pattern-black.png);
+	background:#1A1A1A url(http://img.kurddrama.com/style/images/bg-pattern-black.png);
 	position:relative;
 	z-index:2;
 	text-shadow: none;
@@ -1731,7 +1731,7 @@ position:absolute;
 	cursor:pointer;
 	text-indent:-5555em;
 	overflow:hidden;
-	background:url(images/fcarousel-nav.png) no-repeat 0 0;
+	background:url(http://img.kurddrama.com/style/images/fcarousel-nav.png) no-repeat 0 0;
 	position:absolute;
 	top:0;
 }
@@ -1768,7 +1768,7 @@ position:absolute;
 }
 .fcarousel-5 .carousel-prev,.fcarousel-5 .carousel-next {
 	height:76px;
-	background-image:url(images/home-carousel-nav.png);
+	background-image:url(http://img.kurddrama.com/style/images/home-carousel-nav.png);
 }
 
 
@@ -1783,7 +1783,7 @@ position:absolute;
 border:1px solid #000;
 -webkit-box-shadow:0 0 10px rgba(0,0,0,.5),inset 0 0 1px #666,inset 0 0 50px rgba(0,0,0,.5);
 	box-shadow:0 0 10px rgba(0,0,0,.5),inset 0 0 1px #666,inset 0 0 50px rgba(0,0,0,.5);
-	background: #333 url(images/loading-bert.gif) no-repeat center center;
+	background: #333 url(http://img.kurddrama.com/style/images/loading-bert.gif) no-repeat center center;
 
 } 
 .home-featured .slider .slide{
@@ -1800,7 +1800,7 @@ position:relative;
 	width:620px;
 }
 .home-featured .slider .thumb.loading .overlay {
-	background:rgba(0,0,0,.75) url(images/loading-bert.gif) no-repeat center center !important;
+	background:rgba(0,0,0,.75) url(http://img.kurddrama.com/style/images/loading-bert.gif) no-repeat center center !important;
 	visibility:visible;
 	opacity:1;
 }
@@ -1813,10 +1813,10 @@ border-top:1px solid rgba(255,255,255,0.1);
 .home-featured .slider .title a{color:#EEE;}
 .home-featured .slider .title a:hover{color:#FFF;}
 .home-featured .slider .item-post .thumb .overlay {
-	background-image:url(images/icon-plus-64.png)
+	background-image:url(http://img.kurddrama.com/style/images/icon-plus-64.png)
 }
 .home-featured .slider .item-video .thumb .overlay {
-	background-image:url(images/icon-play-64.png)
+	background-image:url(http://img.kurddrama.com/style/images/icon-play-64.png)
 }
 
 
@@ -1886,7 +1886,7 @@ border-top:1px solid rgba(255,255,255,0.1);
 	vertical-align:middle;
 	text-indent:-5555em;
 	overflow:hidden;
-	background:#333 url(images/vertical-carousel-updown.png) no-repeat center 8px;
+	background:#333 url(http://img.kurddrama.com/style/images/vertical-carousel-updown.png) no-repeat center 8px;
 	border-top:1px solid #444;
 }
 .home-featured .carousel-prev {
@@ -1930,7 +1930,7 @@ border-top:1px solid rgba(255,255,255,0.1);
 	padding:0 0 0 22px;
 	margin:0 15px 0 0;
 	color:#AAA;
-	background:url(images/links.png) no-repeat 0 0;
+	background:url(http://img.kurddrama.com/style/images/links.png) no-repeat 0 0;
 }
 .author-box .links a:hover {
 	color:#555;
@@ -2049,10 +2049,10 @@ border-top:1px solid rgba(255,255,255,0.1);
 	text-indent:-5555em;
 }
 .loop-actions .asc {
-	background:url(images/view.png) no-repeat 0 -15px
+	background:url(http://img.kurddrama.com/style/images/view.png) no-repeat 0 -15px
 }
 .loop-actions .desc {
-	background:url(images/view.png) no-repeat -20px -15px
+	background:url(http://img.kurddrama.com/style/images/view.png) no-repeat -20px -15px
 }
 .loop-actions .view {
 	float:right;
@@ -2068,7 +2068,7 @@ border-top:1px solid rgba(255,255,255,0.1);
 	display:inline-block;
 	width:11px;
 	height:11px;
-	background-image:url(images/view.png);
+	background-image:url(http://img.kurddrama.com/style/images/view.png);
 	background-repeat:no-repeat;
 }
 .list-small-link i {
@@ -2115,14 +2115,14 @@ display:none;
 	position:relative;
 	/*overflow: hidden;*/
 	z-index:4;
-	background: #333 url(images/loading-bert.gif) no-repeat center center;
+	background: #333 url(http://img.kurddrama.com/style/images/loading-bert.gif) no-repeat center center;
 }
 #screen .thumb{
 	width:950px;
 	height:540px;
 }
 #screen .thumb .overlay{
-	background-image: url(images/icon-plus-64.png);
+	background-image: url(http://img.kurddrama.com/style/images/icon-plus-64.png);
 }
 
 /*== Headline
@@ -2200,14 +2200,14 @@ display:none;
 
 /* Like Button */
 #actions .dp-like-post .like {
-	background:url(images/actions.png) no-repeat 10px -24px;
+	background:url(http://img.kurddrama.com/style/images/actions.png) no-repeat 10px -24px;
 }
 #actions .dp-like-post .liked {
-	background:url(images/actions.png) no-repeat 10px -84px;
+	background:url(http://img.kurddrama.com/style/images/actions.png) no-repeat 10px -84px;
 	color:#555;
 }
 #actions .dp-like-post .like:hover,#actions .dp-like-post .liked:hover {
-	background:url(images/actions.png) no-repeat 10px -24px;
+	background:url(http://img.kurddrama.com/style/images/actions.png) no-repeat 10px -24px;
 	color: #555;
 }
 
@@ -2215,7 +2215,7 @@ display:none;
 #actions .dp-share{z-index:999;}
 #actions .dp-share .dropdown-handle {
 	display:block;
-	background: url(images/actions.png) no-repeat 10px -145px;
+	background: url(http://img.kurddrama.com/style/images/actions.png) no-repeat 10px -145px;
 	position:relative;
 	z-index:999;
 }
@@ -2267,7 +2267,7 @@ border-radius:3px 3px 0 0;
 	-webkit-border-radius:3px 3px 0 0;
 	border-radius:3px 3px 0 0;
 	color:#111;
-	background:#F7F7F7 url(images/actions.png) no-repeat 10px -145px;
+	background:#F7F7F7 url(http://img.kurddrama.com/style/images/actions.png) no-repeat 10px -145px;
 }
 #actions .dp-share:hover .dropdown-content {
 	opacity:1;
@@ -2284,7 +2284,7 @@ border-radius:3px 3px 0 0;
 /* Headline */
 .wall #headline{border-bottom:0;}
 .wall #headline .inner{border-bottom:0;padding-bottom:0;}
-.wall #title{color:#EEE;font-size:18px;font-weight:normal;background:url(images/icon-play-16.png) no-repeat left 3px;padding-left:24px;text-shadow:none;}
+.wall #title{color:#EEE;font-size:18px;font-weight:normal;background:url(http://img.kurddrama.com/style/images/icon-play-16.png) no-repeat left 3px;padding-left:24px;text-shadow:none;}
 .wall #title a{color:#AAA;}
 .wall #title a:hover{color:#FFF;}
 
@@ -2300,7 +2300,7 @@ border-radius:3px 3px 0 0;
 
 /* Share Button */
 .wall #actions .dp-share .dropdown-handle {
-	background:url(images/actions.png) no-repeat 10px -115px;
+	background:url(http://img.kurddrama.com/style/images/actions.png) no-repeat 10px -115px;
 }
 .wall #actions .dp-share .dropdown-content {
 	border:0;
@@ -2311,19 +2311,19 @@ border-radius:3px 3px 0 0;
 	-webkit-border-radius:3px 3px 0 0;
 	border-radius:3px 3px 0 0;
 	color:#333;
-	background:#F7F7F7 url(images/actions.png) no-repeat 10px -145px;
+	background:#F7F7F7 url(http://img.kurddrama.com/style/images/actions.png) no-repeat 10px -145px;
 }
 
 /* Like Button */
 .wall #actions .dp-like-post .like {
-	background:#555 url(images/actions.png) no-repeat 10px 6px;
+	background:#555 url(http://img.kurddrama.com/style/images/actions.png) no-repeat 10px 6px;
 }
 .wall #actions .dp-like-post .liked {
-	background:#F7F7F7 url(images/actions.png) no-repeat 10px -84px;
+	background:#F7F7F7 url(http://img.kurddrama.com/style/images/actions.png) no-repeat 10px -84px;
 	color:#555;
 }
 .wall #actions .dp-like-post .like:hover,.wall #actions .dp-like-post .liked:hover {
-	background:#F7F7F7 url(images/actions.png) no-repeat 10px -24px;
+	background:#F7F7F7 url(http://img.kurddrama.com/style/images/actions.png) no-repeat 10px -24px;
 	color: #333;
 }
 
@@ -2361,10 +2361,10 @@ border-radius:3px 3px 0 0;
 	margin:6px 0 0 2px;
 }
 .info-arrow-more {
-	background:url(images/less-more.png) no-repeat 0 0!important;
+	background:url(http://img.kurddrama.com/style/images/less-more.png) no-repeat 0 0!important;
 }
 .info-arrow-less {
-	background:url(images/less-more.png) no-repeat 0 -20px!important;
+	background:url(http://img.kurddrama.com/style/images/less-more.png) no-repeat 0 -20px!important;
 }
 .info-toggle {
 	text-align:center;
@@ -2431,7 +2431,7 @@ border-radius:3px 3px 0 0;
 	padding:4px 0 4px 12px;
 	border-top:1px solid #FFF;
 	border-bottom:1px solid #DDD;
-	background:url(images/blt-arrow.png) no-repeat 0 12px;
+	background:url(http://img.kurddrama.com/style/images/blt-arrow.png) no-repeat 0 12px;
 	position:relative;
 	top:-1px;
 }
@@ -2490,10 +2490,10 @@ border-radius:3px 3px 0 0;
 	padding:0 20px;
 	position:relative;
 	top:-1px;
-	background:url(images/blt-arrow.png) no-repeat 8px 11px;
+	background:url(http://img.kurddrama.com/style/images/blt-arrow.png) no-repeat 8px 11px;
 }
 .widget_archive li:hover,.widget_categories li:hover {
-	background:url(images/blt-arrow-hover.png) no-repeat 8px 11px
+	background:url(http://img.kurddrama.com/style/images/blt-arrow-hover.png) no-repeat 8px 11px
 }
 .widget_archive li a,.widget_categories li a {
 	float:left;
@@ -2511,7 +2511,7 @@ margin:0 !important;
  /*== Widget Comments
  *=================================*/
 .widget-comments li {
-	background:url(images/blt-comment.png) no-repeat 0 11px;
+	background:url(http://img.kurddrama.com/style/images/blt-comment.png) no-repeat 0 11px;
 	padding:5px 0 5px 16px;
 	overflow:hidden;
 }
@@ -2555,7 +2555,7 @@ margin:0 !important;
 	margin:0 0 10px;
 }
 .widget-tweets li {
-	background:url(images/blt-twitter.png) no-repeat 0 10px !important;
+	background:url(http://img.kurddrama.com/style/images/blt-twitter.png) no-repeat 0 10px !important;
 	padding:5px 0 5px 18px !important;
 }
 .widget-tweets .tweet-meta {
@@ -2851,7 +2851,7 @@ display:block;
 	text-indent:-987em;
 	overflow:hidden;
 	line-height:987em;
-	background:url(images/social.png) no-repeat 0 0;
+	background:url(http://img.kurddrama.com/style/images/social.png) no-repeat 0 0;
 }
 #social-nav a:hover {
 	background-color:none;
@@ -2943,7 +2943,7 @@ height:48px;
 .comment-reply-link {
 	font-size:12px;
 	padding:0 0 0 18px;
-	background:url(images/icon-reply.png) no-repeat 0 2px;
+	background:url(http://img.kurddrama.com/style/images/icon-reply.png) no-repeat 0 2px;
 }
 .comment-reply-link:hover {
 	background-position:0 -18px
@@ -2956,7 +2956,7 @@ height:48px;
 	text-transform:none;
 	font-weight:normal;
 	font-family:sans-serif;
-	background:url(images/icon-reply.png) no-repeat 0 -40px;
+	background:url(http://img.kurddrama.com/style/images/icon-reply.png) no-repeat 0 -40px;
 	width:12px;
 	height:12px;
 	display:inline-block;
@@ -3023,7 +3023,7 @@ height:48px;
  *=================================*/
 .comment-list .depth-2 .comment-inner {
 	padding-left:20px;
-	background:url(images/icon-depth-arrow.png) no-repeat 0 10px;
+	background:url(http://img.kurddrama.com/style/images/icon-depth-arrow.png) no-repeat 0 10px;
 }
 .comment-list .depth-2 .comment-avatar {
 	width:32px;
